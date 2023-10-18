@@ -13,9 +13,10 @@ I mostly referred to our recent lessons/activities for this assignment.
 
  * Node.js: https://nodejs.org/en/docs
  * Inquirer package: https://www.npmjs.com/package/inquirer/v/8.2.4
- * MySQL: https://dev.mysql.com/doc/ 
+ * MySQL2 package: https://www.npmjs.com/package/mysql2 
 
-## Provided Demo & Screenshot:
+## Screenshots:
+
+* Database schema includes tables labeled "employee," "role," and "department."
+
 ![alt text](./assets/12-sql-homework-demo-01.png)
-
-![alt text](./assets/12-sql-homework-video-thumbnail.png)
