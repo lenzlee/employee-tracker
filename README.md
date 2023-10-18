@@ -19,4 +19,8 @@ I mostly referred to our recent lessons/activities for this assignment.
 
 * Database schema includes tables labeled "employee," "role," and "department."
 
-![alt text](./assets/12-sql-homework-demo-01.png)
+![Database schema includes tables labeled "employee," "role," and "department."](./assets/12-sql-homework-demo-01.png)
+
+* A video thumbnail shows the command-line employee management application with a play button overlaying the view.
+
+[![A video thumbnail shows the command-line employee management application with a play button overlaying the view.](./assets/12-sql-homework-video-thumbnail.png)](https://2u-20.wistia.com/medias/2lnle7xnpk)
