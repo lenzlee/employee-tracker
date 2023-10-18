@@ -17,6 +17,10 @@ I mostly referred to our recent lessons/activities for this assignment.
 
 ## Screenshots:
 
+* My Employee Tracker App Screenshot
+
+![My Employee Tracker App Screenshot](./assets/employee-tracker-app.png)
+
 * Database schema includes tables labeled "employee," "role," and "department."
 
 ![Database schema includes tables labeled "employee," "role," and "department."](./assets/12-sql-homework-demo-01.png)
