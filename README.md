@@ -2,11 +2,11 @@
 Bootcamp Module 12: SQL Challenge - Employee Tracker
 
 ## SQL Challenge: Employee Tracker
-In this project, we were asked to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
+In this project, we were asked to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL2.
 
 ## URLs submitted:
 * My Github Repo URL: https://github.com/lenzlee/employee-tracker
-* Video Walk-Through: 
+* Video Walk-Through: https://youtu.be/sVq8cNXmCGU 
 
 ## References/Resources:
 I mostly referred to our recent lessons/activities for this assignment. 
